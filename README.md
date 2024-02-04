@@ -17,4 +17,4 @@ Enhance your Firefox Developer Edition with the captivating "Midnight Radiance" 
 * **Highlight Yellow:** `#FFDD9D`
 * **Accent Pink:** `#FF95AC`
 
-Bring the beauty of the night to your Firefox Developer Edition with the ["Midnight Radiance" theme](https://addons.mozilla.org/en-US/firefox/addon/midnight-radiance-theme/), created using the [Firefox Color Tool](https://color.firefox.com/). Download and enjoy a visually stunning environment for your late-night coding sessions.
+Bring the beauty of the night to your Firefox Developer Edition with the ["Midnight Radiance" theme](https://addons.mozilla.org/en-US/firefox/addon/midnight-radiance-theme/), created using the [Firefox Color Tool](https://color.firefox.com/) URL : [Add-ons for Firefox Color](https://addons.mozilla.org/ar/firefox/addon/firefox-color/) Download and enjoy a visually stunning environment for your late-night coding sessions.

@@ -1,6 +1,6 @@
-# Midnight Radiance Theme
+# Midnight Radiance Theme for Firefox Developer Edition
 
-Experience the allure of the night with our "Midnight Radiance" theme. Immerse yourself in a celestial atmosphere where dark purple and blue skies meet, highlighted by the warm glow of orange and yellow accents. This theme is designed for those who prefer a stylish and soothing dark theme, with icons set against a backdrop reminiscent of a starry midnight sky.
+Enhance your Firefox Developer Edition with the captivating "Midnight Radiance" theme. Immerse yourself in a celestial atmosphere where dark purple and blue skies meet, highlighted by the warm glow of orange and yellow accents. Designed for developers and night owls, this theme offers a stylish and soothing dark experience, with icons set against a backdrop reminiscent of a starry midnight sky.
 
 ## Color Palette:
 * **Dark Purple:** `#1F223D`
@@ -17,4 +17,4 @@ Experience the allure of the night with our "Midnight Radiance" theme. Immerse y
 * **Highlight Yellow:** `#FFDD9D`
 * **Accent Pink:** `#FF95AC`
 
-Bring the beauty of the night to your digital experience with "Midnight Radiance."
+Bring the beauty of the night to your Firefox Developer Edition with the ["Midnight Radiance" theme](https://addons.mozilla.org/en-US/firefox/addon/midnight-radiance-theme/), created using the [Firefox Color Tool](https://color.firefox.com/). Download and enjoy a visually stunning environment for your late-night coding sessions.
